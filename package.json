@@ -1,0 +1,8 @@
+{
+  "name": "@strukt-js/strukt-typescript-preset",
+  "version": "0.0.0",
+  "private": true,
+  "repository": "https://github.com/strukt-js/strukt-typescript-preset",
+  "author": "Team @ Strukt JS",
+  "license": "MIT"
+}

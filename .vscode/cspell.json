@@ -1,0 +1,23 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+  "version": "0.2",
+  "dictionaries": [
+    "en_US",
+    "companies",
+    "softwareTerms",
+    "typescript",
+    "nodejs",
+    "html",
+    "css",
+    "npm",
+    "workspace-dictionary"
+  ],
+  "dictionaryDefinitions": [
+    {
+      "name": "workspace-dictionary",
+      "path": "./.cspell/words.txt",
+      "addWords": true
+    }
+  ],
+  "ignorePaths": ["node_modules"]
+}
