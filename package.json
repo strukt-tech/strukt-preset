@@ -7,5 +7,8 @@
   "workspaces": [
     "packages/*"
   ],
+  "engines": {
+    "node": ">= 18"
+  },
   "packageManager": "yarn@3.2.0"
 }

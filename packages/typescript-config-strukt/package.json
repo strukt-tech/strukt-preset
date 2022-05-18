@@ -1,0 +1,11 @@
+{
+  "author": "Strukt Team (github.com/strukt-js)",
+  "repository": "git@github.com:strukt-js/strukt-typescript-preset.git",
+  "name": "@strukt/typescript-config-strukt",
+  "type": "module",
+  "exports": {
+    "./base": "./tsconfig.base.json",
+    "./react": "./tsconfig.react.json"
+  },
+  "packageManager": "yarn@3.2.0"
+}
